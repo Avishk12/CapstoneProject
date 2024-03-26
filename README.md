@@ -1,2 +1,2 @@
-# Piyush-CV-LastYear
-Last Year CV course Project
+# Capstone Project
+Last Year Capstone Project
